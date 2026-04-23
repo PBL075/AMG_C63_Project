@@ -1,0 +1,14 @@
+D:\AMG c63 prj\bin\Debug\net10.0\AMG c63 prj.exe
+D:\AMG c63 prj\bin\Debug\net10.0\AMG c63 prj.deps.json
+D:\AMG c63 prj\bin\Debug\net10.0\AMG c63 prj.runtimeconfig.json
+D:\AMG c63 prj\bin\Debug\net10.0\AMG c63 prj.dll
+D:\AMG c63 prj\bin\Debug\net10.0\AMG c63 prj.pdb
+D:\AMG c63 prj\obj\Debug\net10.0\AMG c63 prj.GeneratedMSBuildEditorConfig.editorconfig
+D:\AMG c63 prj\obj\Debug\net10.0\AMG c63 prj.AssemblyInfoInputs.cache
+D:\AMG c63 prj\obj\Debug\net10.0\AMG c63 prj.AssemblyInfo.cs
+D:\AMG c63 prj\obj\Debug\net10.0\AMG c63 prj.csproj.CoreCompileInputs.cache
+D:\AMG c63 prj\obj\Debug\net10.0\AMG c63 prj.dll
+D:\AMG c63 prj\obj\Debug\net10.0\refint\AMG c63 prj.dll
+D:\AMG c63 prj\obj\Debug\net10.0\AMG c63 prj.pdb
+D:\AMG c63 prj\obj\Debug\net10.0\AMG c63 prj.genruntimeconfig.cache
+D:\AMG c63 prj\obj\Debug\net10.0\ref\AMG c63 prj.dll
